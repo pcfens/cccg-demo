@@ -2,7 +2,7 @@ title: Higher Education Cloud Computing Community Group
 email: cccg-leads@internet2.edu
 description: >-
   Information and links for the Higher Education Cloud Computing Community Group
-baseurl: ""
+baseurl: /cccg-demo
 url: ""
 
 theme: jekyll-theme-minimal
