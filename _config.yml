@@ -1,0 +1,22 @@
+title: Higher Education Cloud Computing Community Group
+email: cccg-leads@internet2.edu
+description: >-
+  Information and links for the Higher Education Cloud Computing Community Group
+baseurl: ""
+url: ""
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
